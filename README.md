@@ -4,4 +4,8 @@ This a brief description of myself whai i like and what i can do in this field o
 #### Author: {TeddyMachoka} https://github.com/Teddie98/TMachoka
 
 
-##
+### Features
+    * Tall
+    - Dark
+
+### Licence [MIT]
